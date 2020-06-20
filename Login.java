@@ -1,6 +1,6 @@
 public class Login
 {
-	public static void main()
+	public static void main(string[args])
 	{
 	}
 }
