@@ -7,3 +7,5 @@ skip stagging
 adding new line
 
 awesomness increased
+
+Greatness achived
