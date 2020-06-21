@@ -9,3 +9,5 @@ adding new line
 awesomness increased
 
 Greatness achived
+
+reseting HEAD
